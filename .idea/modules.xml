@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_util/common_util.iml" filepath="$PROJECT_DIR$/common/common_util/common_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server_gateway/server_gateway.iml" filepath="$PROJECT_DIR$/server_gateway/server_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_client/service_client.iml" filepath="$PROJECT_DIR$/service_client/service_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_cmn/service_cmn.iml" filepath="$PROJECT_DIR$/service/service_cmn/service_cmn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_hose/service_hose.iml" filepath="$PROJECT_DIR$/service/service_hose/service_hose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_msm/service_msm.iml" filepath="$PROJECT_DIR$/service/service_msm/service_msm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_user/service_user.iml" filepath="$PROJECT_DIR$/service/service_user/service_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/service_util/service_util.iml" filepath="$PROJECT_DIR$/common/service_util/service_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent.iml" filepath="$PROJECT_DIR$/yygh_parent.iml" />
+    </modules>
+  </component>
+</project>
